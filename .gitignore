@@ -1,0 +1,14 @@
+hr-service/vendor
+hr-service/node_modules
+hr-service/storage
+hr-service/bootstrap/cache
+hr-service/.env
+
+sales-service/vendor
+sales-service/node_modules
+sales-service/storage
+sales-service/bootstrap/cache
+sales-service/.env
+
+.DS_Store
+Thumbs.db
